@@ -1,0 +1,6 @@
+npm init
+npm i express
+npm i hbs
+npm i mongoose
+npm i nodemon
+nodemon src/index.js
