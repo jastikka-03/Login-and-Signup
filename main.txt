@@ -3,4 +3,4 @@ npm i express
 npm i hbs
 npm i mongoose
 npm i nodemon
-nodemon src/index.js
+run using nodemon src/index.js
